@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 ## A Little About Me
-My name is Charles and I recently began working in as a cloud security engineer at IX Cloud Security. I have an M.S. in robotics from the University of Pennsylvania and a B.S. in mechanical engineering from Villanova University. Some technologies I work with regularly with are: AWS, Terraform, Python, and Shell. I am particularly interested in machine learning and am currently exploring how it can be used to enhance cybersecurity of cloud infrastructures. If you would like to contact me, you can reach me at:
+My name is Charles and I am currently working as a cloud security engineer at IX Cloud Security. I have an M.S. in robotics from the University of Pennsylvania and a B.S. in mechanical engineering from Villanova University. Some technologies I work with regularly with are: AWS, Terraform, Python, and Shell. I am particularly interested in machine learning and am currently exploring how it can be used to enhance cybersecurity of cloud infrastructures. If you would like to contact me, you can reach me at:
 * [LinkedIn](https://www.linkedin.com/in/charles-yoo/)
 * [cyoo@ixcloudsecurity.com](mailto:cyoo@ixcloudsecurity.com)
 
