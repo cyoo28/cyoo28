@@ -5,8 +5,10 @@ My name is Charles and I am currently working as a cloud security engineer at IX
 * [cyoo@ixcloudsecurity.com](mailto:cyoo@ixcloudsecurity.com)
 
 
-## 🚀 My Most Recent Project
-My most recent project is a data lake reference architecture that I developed as part of my work at IX Cloud Security. For this project, I provisioned multiple Lambda functions in AWS using Terraform to scrape and store data to S3. The data is then presented in a secure manner using a CloudFront distribution. [You can check out my most recent project by clicking here.](https://github.com/cyoo28/stock-datalake)
+## 🚀 My Recent Projects
+My most recent project is a credential manager as part of my work at IX Cloud Security. For this project, I run a scheduled ECS task to rotate old secrets in GCP and to notify the SecOps team about which secrets have been changed. [You can check out my most recent project by clicking here.](https://github.com/cyoo28/credential-manager)
+
+For another project is a data lake reference architecture that I developed as part of my work at IX Cloud Security. For this project, I provisioned multiple Lambda functions in AWS using Terraform to scrape and store data to S3. The data is then presented in a secure manner using a CloudFront distribution. [You can check out my most recent project by clicking here.](https://github.com/cyoo28/stock-datalake)
 
 ## 📜 My Certifications:
 * AWS Certified Solutions Architect – Associate (Oct 2024)
