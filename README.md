@@ -3,8 +3,8 @@
 Hi, I’m Charles, a Cloud Security Engineer at IX Cloud Security. I manage client cloud infrastructures, which includes managing access control, monitoring security events, and automating workflows to keep environments secure and efficient. I work regularly with AWS, Terraform, Python, and Shell. I’m also particularly interested in Generative AI, exploring how it can be used safely and how it can be applied to enhance applications such as cybersecurity.
 
 If you would like to contact me, you can reach me at:
-* [LinkedIn](https://www.linkedin.com/in/charles-yoo/)
-* [charlieyoo00@gmail.com](mailto:charlieyoo00@gmail.com)
+* [My LinkedIn](https://www.linkedin.com/in/charles-yoo/)
+* [My Email](mailto:charlieyoo00@gmail.com)
 
 ## 🚀 My Recent Projects
 For my most recent project, I created a FastAPI backend that generates follow-up questions for interviewers based on an original question and a candidate’s response. The service exposes a POST endpoint that accepts the interview question, the candidate’s answer, and optional metadata such as job role or interview stage, helping interviewers get contextually relevant prompts to make the interview process more effective. The backend and tests are fully implemented, and the project is ready to use. [You can check out my work for this project by clicking here.](https://github.com/cyoo28/genai-interview-followup)
@@ -19,12 +19,20 @@ I am also currently writing a couple tutorial series for how to use Kubernetes. 
 * AWS Certified Security – Specialty (Mar 2025)
 
 ## 🛠️ My Skills
-☁️ **Cloud Infrastructure:** AWS (Lambda, EC2, ECR, S3, Athena, Secrets Manager), GCP (Cloud Functions, Compute Engine, Cloud Storage, Secret Manager)
+☁️ **Cloud Infrastructure:** AWS (Lambda, EC2, ECR, S3, Athena, Secrets Manager), GCP (Cloud Functions, Compute Engine, Cloud Storage, Secret Manager)  
+
 🔒 **Cloud Security:** IAM/SCP, CloudTrail, CloudWatch, Security Hub, AWS Config, GuardDuty, Organizations, Control Tower, Identity Center, Splunk  
+
 💻 **Programming Languages:** Python, Bash/Shell, C, C++, Golang, SQL  
+
 ⚙️ **Dev/Ops:** Docker, Jenkins, Kubernetes, AWS CloudFormation, Terraform  
-🤖 **Machine Learning & Data Science:** AWS Sagemaker, AWS Bedrock, Google Vertex AI, OpenAI API, TensorFlow, PyTorch, Pandas, Scikit-learn
+
+🤖 **Machine Learning & Data Science:** AWS Sagemaker, AWS Bedrock, Google Vertex AI, OpenAI API, TensorFlow, PyTorch, Pandas, Scikit-learn  
+
 🧰 **Developer Tools:** Visual Studio, Linux, GitHub, Jupyter  
+
 🤖 **Robotics & Embedded Systems:** Gazebo, ROS, Rviz, OpenCV, Raspberry Pi, Arduino, ATMega32, ESP32, STM32  
+
 🧱 **Modeling & Simulation:** SolidWorks, DraftSight, Matlab, Simulink, MathCad, SVN  
-📊 **Business & Project Tools:** Jira, Confluence, Microsoft Suite, Tableau
+
+📊 **Business & Project Tools:** Jira, Confluence, Microsoft Suite, Tableau  
